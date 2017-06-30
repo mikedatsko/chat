@@ -9,6 +9,9 @@
   "author": "Mike Datsko <mike@datsko.it> (http://datsko.it)",
   "license": "ISC",
   "dependencies": {
-    "websocket": "^1.0.24"
+    "express": "^4.15.3",
+    "path": "^0.12.7",
+    "websocket": "^1.0.24",
+    "ws": "^3.0.0"
   }
 }
